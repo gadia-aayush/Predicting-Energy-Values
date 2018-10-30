@@ -43,8 +43,7 @@
 
 
   6. ***Run- '6_final_predict.py'***  
-    - Now this will finally predict the values of the May month along with what was Expected & \
-      what it predicted.  
+    - Now this will finally predict the values of the May month along with what was Expected & what it predicted.  
     - Output given in jpeg.  
 
 
